@@ -1,5 +1,6 @@
 @media screen and (max-width: 840px) {
     header {
+        
         flex-direction: column;
     }
 
@@ -12,7 +13,8 @@
     }
 
     h2 {
-        font-size: 36px;
+        margin-top: -1px;
+        font-size: 35px;
         text-align: center;
     }
     
